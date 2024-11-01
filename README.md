@@ -6,8 +6,8 @@ This project was submitted in Partial Fulfillment of the Requirements for the Co
 #### 1) Nearest neighbor classifier 
 #### 2) K nearest neighbor classifier (Value of K to be chosen experimentally) 
 #### 3) Reference template based classifier 
-a. Mean vector as reference template for a class 
-b. Mean vector and covariance matrix as reference template for a class 
+- Mean vector as reference template for a class
+- Mean vector and covariance matrix as reference template for a class 
 #### 4) Bayes classifier-Unimodal Gaussian density 
 - Covariance matrix for all the classes is the same and is σ2I. You can obtain the same covariance matrix for all the classes by taking the average of covariance matrices of all the classes. You can 
 obtain same variance by averaging all the variances. 
