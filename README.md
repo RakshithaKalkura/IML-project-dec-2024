@@ -3,8 +3,8 @@
 
 This project was submitted in Partial Fulfillment of the Requirements for the Course.
 ### Classifier to be built:  
-[#### 1) Nearest neighbor classifier](nearest_neighbour)
-[#### 2) K nearest neighbor classifier (Value of K to be chosen experimentally) ](KNN)
+#### [1) Nearest neighbor classifier](nearest_neighbour)
+#### [2) K nearest neighbor classifier (Value of K to be chosen experimentally) ](KNN)
 #### 3) Reference template based classifier 
 - [Mean vector as reference template for a class](reference_template/case1)
 - [Mean vector and covariance matrix as reference template for a class](reference_template/case2)
